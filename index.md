@@ -57,4 +57,4 @@ There are two AI safety coworking spaces in Berkeley. They sometime accept visit
 
 Most AI Safety events don't get advertised publicly, so get in contact with people in the community to know what's happening.
 
-*Last Updated: 2024-08-09*
+*Last Updated: 2024-08-22*
