@@ -29,7 +29,7 @@ Official policy on new singers is "Anyone who can pitch-match is welcome.", thou
 
 David Friedman hosts irregular SSC/ACX meetups at his home in San Jose, tracked on [a page of his personal website](http://www.daviddfriedman.com/SSC%20Meetups%20announcement.html) and typically also announced on the email group and Discord server. They are weekend events, starting early afternoon and running through dinner (provided) and into the evening. RSVPs are preferred for meal planning purposes.
 
-Charles' Sunday Roasts: Charles <Lastname> has recently begun to host monthly meetups in Sunnyvale on the first Sunday afternoon of the month. They are announced on Discord and he can be reached [by email](cxs6174@gmail.com). **RSVPs are necessary.**
+Charles' Sunday Roasts: Charles \<Lastname\> has recently begun to host monthly meetups in Sunnyvale on the first Sunday afternoon of the month. They are announced on Discord and he can be reached [by email](cxs6174@gmail.com). **RSVPs are necessary.**
 
 # Housing
 
@@ -58,3 +58,5 @@ There are two AI safety coworking spaces in Berkeley. They sometime accept visit
 Most AI Safety events don't get advertised publicly, so get in contact with people in the community to know what's happening.
 
 *Last Updated: 2024-08-22*
+
+*Leave a comment on [the LessWrong mirror](https://www.lesswrong.com/posts/hDefuqC2Rbnr8THYW/index-of-rationalist-groups-in-the-bay-area-july-2024) to suggest changes to this page.*
