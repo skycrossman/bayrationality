@@ -18,12 +18,18 @@ Taco Tuesday: by Austin Chen, founder emeritus of Manifold. Check his [Manifold 
 
 [North Oakland LessWrong Meetup](https://www.lesswrong.com/groups/v7dn9rTWLcK5Tcy9f): every Wednesday, hosted by [@Czynski](https://www.lesswrong.com/users/czynski).
 
-Thursday Dinners in Berkeley: Advertised on the Discord server and Google group, alternating between a few restaurants on the northwest side of UC campus.  
+Thursday Dinners in Berkeley: Advertised on the Discord server and Google group, alternating between a few restaurants on the northwest side of UC campus.
 
 [Bay Area ACX Meetups](https://www.facebook.com/groups/566160007909175): For the ACX everywhere meetups twice per year, and some other sporadic events.
 
 [The Bayesian Choir](https://discord.gg/rfPYGCV): Usually meets every other Sunday near North Oakland, and more often during the fall to rehearse for the Solstice. Choir Director and primary organizer is Blake Jones, and coordination happens on the linked Discord server.
 Official policy on new singers is "Anyone who can pitch-match is welcome.", though joining tends to be suspended during the rehearsals for Solstice. See more detail on the [introduction doc](https://docs.google.com/document/d/1Rwmwx6lOhzWgWPtrX3EWMXmJqNpQpHtqRYMbicDTGj8/edit).
+
+## South Bay
+
+David Friedman hosts irregular SSC/ACX meetups at his home in San Jose, tracked on [a page of his personal website](http://www.daviddfriedman.com/SSC%20Meetups%20announcement.html) and typically also announced on the email group and Discord server. They are weekend events, starting early afternoon and running through dinner (provided) and into the evening. RSVPs are preferred for meal planning purposes.
+
+Charles' Sunday Roasts: Charles <Lastname> has recently begun to host monthly meetups in Sunnyvale on the first Sunday afternoon of the month. They are announced on Discord and he can be reached [by email](cxs6174@gmail.com). **RSVPs are necessary.**
 
 # Housing
 
