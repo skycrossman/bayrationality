@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bay Rationality
-tagline: Welcome to the Baysian Area.
+tagline: Welcome to the Bayesian Area.
 description: An index of rationalist groups in the Californian Bay Area
 ---
 
@@ -9,9 +9,10 @@ The Bay Area rationalist community has an entry problem! Lots of listed groups a
 
 # Communication
 
+Email Group: [BayAreaLessWrong](https://groups.google.com/g/bayarealesswrong)
+
 Discord: [Bay Area Rationalists](https://discord.gg/EpG4xUVKtf)
 
-Email Group: [BayAreaLessWrong](https://groups.google.com/g/bayarealesswrong)
 # Local Meetup Groups
 
 Taco Tuesday: by Austin Chen, founder emeritus of Manifold. Check his [Manifold questions](https://manifold.markets/Austin?tab=questions) page for the next date!
