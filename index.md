@@ -59,6 +59,6 @@ There are two AI safety coworking spaces in Berkeley. They sometime accept visit
 
 Most AI Safety events don't get advertised publicly, so get in contact with people in the community to know what's happening.
 
-*Last Updated: 2024-08-22*
+*Last Updated: 2024-09-17*
 
 *Leave a comment on [the LessWrong mirror](https://www.lesswrong.com/posts/hDefuqC2Rbnr8THYW/index-of-rationalist-groups-in-the-bay-area-july-2024) to suggest changes to this page.*
