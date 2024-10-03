@@ -46,6 +46,10 @@ header {
     margin-top: 20%;
 }
 
+.head-area {
+    height: 120px;
+}
+
 .site-description {
     font-family: "League Gothic", "Arial Narrow", Arial, sans-serif;
     text-align: center;
