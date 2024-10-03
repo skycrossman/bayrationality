@@ -32,6 +32,8 @@ header {
     margin: 0 auto;
     background-image: url(/assets/img/berkeley_skyline_night_clocktower.jpg);
     background-size: cover;
+    background-position: 0% calc(10% - 50px);
+    background-repeat: no-repeat;
     color: rgba(255, 255, 255, .75);
 }
 
