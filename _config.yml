@@ -1,6 +1,8 @@
 # This is the default format.
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: /:categories/:year/:month/:day/:title
+permalink: /:categories/:title.html # year can be used for ordering
+description: 'Welcome to the Bay Area Rationalist Community'
+year : 2024
 
 exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md", "License.md"]
 highlighter: rouge
@@ -104,3 +106,5 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
+baseurl: /
+plugins: [jekyll-gist]
