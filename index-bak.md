@@ -28,6 +28,8 @@ Thursday Dinners in Berkeley: Advertised on the Discord server and Google group,
 [The Bayesian Choir](https://discord.gg/rfPYGCV): Usually meets every other Sunday near North Oakland, and more often during the fall to rehearse for the Solstice. Choir Director and primary organizer is Blake Jones, and coordination happens on the linked Discord server.
 Official policy on new singers is "Anyone who can pitch-match is welcome.", though joining tends to be suspended during the rehearsals for Solstice. See more detail on the [introduction doc](https://docs.google.com/document/d/1Rwmwx6lOhzWgWPtrX3EWMXmJqNpQpHtqRYMbicDTGj8/edit).
 
+[San Francisco LessWrong Meetup](https://www.lesswrong.com/groups/qQkgmEeEreY6gjd7o): Meets every first Saturday in San Francisco, hosted by [Nate](https://www.lesswrong.com/users/nate-sternberg) and [Andrew](https://www.lesswrong.com/users/andrew-gaul).
+
 ## South Bay
 
 David Friedman hosts irregular SSC/ACX meetups at his home in San Jose, tracked on [a page of his personal website](http://www.daviddfriedman.com/SSC%20Meetups%20announcement.html) and typically also announced on the email group and Discord server. They are weekend events, starting early afternoon and running through dinner (provided) and into the evening. RSVPs are preferred for meal planning purposes.
