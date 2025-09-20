@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bay Rationality
-tagline: Welcome to the Bayesian Area.
+tagline: Welcome to the Baysian Area.
 description: An index of rationalist groups in the Californian Bay Area
 ---
 
@@ -9,10 +9,9 @@ The Bay Area rationalist community has an entry problem! Lots of listed groups a
 
 # Communication
 
-Email Group: [BayAreaLessWrong](https://groups.google.com/g/bayarealesswrong)
-
 Discord: [Bay Area Rationalists](https://discord.gg/EpG4xUVKtf)
 
+Email Group: [BayAreaLessWrong](https://groups.google.com/g/bayarealesswrong)
 # Local Meetup Groups
 
 Taco Tuesday: by Austin Chen, founder emeritus of Manifold. Check his [Manifold questions](https://manifold.markets/Austin?tab=questions) page for the next date!
@@ -27,8 +26,6 @@ Thursday Dinners in Berkeley: Advertised on the Discord server and Google group,
 
 [The Bayesian Choir](https://discord.gg/rfPYGCV): Usually meets every other Sunday near North Oakland, and more often during the fall to rehearse for the Solstice. Choir Director and primary organizer is Blake Jones, and coordination happens on the linked Discord server.
 Official policy on new singers is "Anyone who can pitch-match is welcome.", though joining tends to be suspended during the rehearsals for Solstice. See more detail on the [introduction doc](https://docs.google.com/document/d/1Rwmwx6lOhzWgWPtrX3EWMXmJqNpQpHtqRYMbicDTGj8/edit).
-
-[San Francisco LessWrong Meetup](https://www.lesswrong.com/groups/qQkgmEeEreY6gjd7o): Meets every first Saturday in San Francisco, hosted by [Nate](https://www.lesswrong.com/users/nate-sternberg) and [Andrew](https://www.lesswrong.com/users/andrew-gaul).
 
 ## South Bay
 
