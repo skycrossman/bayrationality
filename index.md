@@ -16,8 +16,6 @@ Email Group: [BayAreaLessWrong](https://groups.google.com/g/bayarealesswrong)
 
 Taco Tuesday: by Austin Chen, founder emeritus of Manifold. Check his [Manifold questions](https://manifold.markets/Austin?tab=questions) page for the next date!
 
-[North Oakland LessWrong Meetup](https://www.lesswrong.com/groups/v7dn9rTWLcK5Tcy9f): every Wednesday, hosted by [@Czynski](https://www.lesswrong.com/users/czynski).
-
 Thursday Dinners in Berkeley: Advertised on the Discord server and Google group, alternating between a few restaurants on the northwest side of UC campus.
 
 [Lighthaven Sequences Reading Group](https://www.lesswrong.com/groups/LK6GNnKp8PDCkqcxx): Currently Tuesday, hosted by the Lighthaven team. They advertise on LessWrong.
@@ -49,7 +47,7 @@ Events sometimes get advertised on those websites:
 
 [East Bay EA Hangout](https://www.facebook.com/groups/ebeah/) on Facebook
 
-And there's the [old EA SF webiste](https://sfbayea.org/)
+And there's the [old EA SF website](https://sfbayea.org/)
 
 # AI Safety
 
